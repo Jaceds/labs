@@ -1,0 +1,15 @@
+/home/charon/studi/learn_C#/lab_5/v2/bin/Debug/net7.0/v2
+/home/charon/studi/learn_C#/lab_5/v2/bin/Debug/net7.0/v2.deps.json
+/home/charon/studi/learn_C#/lab_5/v2/bin/Debug/net7.0/v2.runtimeconfig.json
+/home/charon/studi/learn_C#/lab_5/v2/bin/Debug/net7.0/v2.dll
+/home/charon/studi/learn_C#/lab_5/v2/bin/Debug/net7.0/v2.pdb
+/home/charon/studi/learn_C#/lab_5/v2/obj/Debug/net7.0/v2.csproj.AssemblyReference.cache
+/home/charon/studi/learn_C#/lab_5/v2/obj/Debug/net7.0/v2.GeneratedMSBuildEditorConfig.editorconfig
+/home/charon/studi/learn_C#/lab_5/v2/obj/Debug/net7.0/v2.AssemblyInfoInputs.cache
+/home/charon/studi/learn_C#/lab_5/v2/obj/Debug/net7.0/v2.AssemblyInfo.cs
+/home/charon/studi/learn_C#/lab_5/v2/obj/Debug/net7.0/v2.csproj.CoreCompileInputs.cache
+/home/charon/studi/learn_C#/lab_5/v2/obj/Debug/net7.0/v2.dll
+/home/charon/studi/learn_C#/lab_5/v2/obj/Debug/net7.0/refint/v2.dll
+/home/charon/studi/learn_C#/lab_5/v2/obj/Debug/net7.0/v2.pdb
+/home/charon/studi/learn_C#/lab_5/v2/obj/Debug/net7.0/v2.genruntimeconfig.cache
+/home/charon/studi/learn_C#/lab_5/v2/obj/Debug/net7.0/ref/v2.dll
